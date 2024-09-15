@@ -1,0 +1,20 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h2{
+    text-align: center;
+    color:rgb(203, 107, 11);
+}
+h1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+body{
+    
+    background-image: url("https://aostasoftware.com/wp-content/uploads/2023/02/Hospital-Management-System.jpg");
+    background-size: cover;
+}
